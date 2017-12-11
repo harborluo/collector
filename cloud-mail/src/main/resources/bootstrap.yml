@@ -11,3 +11,4 @@ eureka:
     hostname: localhost
 server:
   port: 9100
+  context-path: /
